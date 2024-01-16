@@ -1,6 +1,6 @@
 # Visual Data-Type Understanding does not emerge from Scaling Vision-Language Models
 
-Official code for the paper ["Visual Data-Type Understanding does not emerge from Scaling Vision-Language Models"](https://arxiv.org/abs/2310.08577). Authors: [Vishaal Udandarao](https://vishaal27.github.io/)\*, [Max F. Burg](https://scholar.google.de/citations?user=-T_5tc0AAAAJ&hl=en)\*, [Samuel Albanie](https://samuelalbanie.com/)§, and [Matthias Bethge](https://bethgelab.org/)§.
+Official code for the ICLR'24 paper ["Visual Data-Type Understanding does not emerge from Scaling Vision-Language Models"](https://arxiv.org/abs/2310.08577). Authors: [Vishaal Udandarao](https://vishaal27.github.io/)\*, [Max F. Burg](https://scholar.google.de/citations?user=-T_5tc0AAAAJ&hl=en)\*, [Samuel Albanie](https://samuelalbanie.com/)§, and [Matthias Bethge](https://bethgelab.org/)§.
 
 \* Equal contribution. Author ordering decided by coin flip.  § Joint senior authors.
 
