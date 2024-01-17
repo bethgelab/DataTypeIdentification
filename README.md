@@ -9,3 +9,6 @@ Recent advances in the development of vision-language models (VLMs) are yielding
 
 # Getting started
 Stay tuned! Code and datasets will be updated soon!
+
+# SyntheticTypeIdent
+The SyntheticTypeIdent dataset can be found here: https://huggingface.co/datasets/bethgelab/SyntheticTypeIdent
